@@ -1,0 +1,14 @@
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\bin\Debug\net6.0\DikaoRpgSimulator.Data.deps.json
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\bin\Debug\net6.0\DikaoRpgSimulator.Data.runtimeconfig.json
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\bin\Debug\net6.0\DikaoRpgSimulator.Data.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\bin\Debug\net6.0\DikaoRpgSimulator.Data.pdb
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.csproj.AssemblyReference.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.AssemblyInfoInputs.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.AssemblyInfo.cs
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\refint\DikaoRpgSimulator.Data.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.pdb
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\DikaoRpgSimulator.Data.genruntimeconfig.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Data\obj\Debug\net6.0\ref\DikaoRpgSimulator.Data.dll
